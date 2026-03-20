@@ -14,7 +14,7 @@ Currently building projects to improve my skills and create a strong professiona
 ## 📂 Portfolio Projects
 *(Projects will be added soon — follow for updates!)*
 
-- **Sales Data Analysis** – Using SQL & Power BI to uncover trends  
+- **Sales Data Analysis** – Using SQL, Excel/Google Sheets & Power BI to uncover trends  
 - **Student Spending Dashboard** – Visualizing spending patterns in Google Sheets & Power BI  
 - **Health Metrics Analysis** – Using Python to analyze lab/health data  
 
