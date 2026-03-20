@@ -1,4 +1,4 @@
-# Hi, I'm Osi Chidera John 👋
+# Hi, I'm John Chidera Osi👋
  
 Aspiring Data Analyst  
 Skills: SQL | Python | Power BI | Excel/Google Sheets  
