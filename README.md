@@ -1,6 +1,6 @@
 # Hi, I'm John Chidera Osi👋
  
-Data Analyst  
+Certified Data Analyst  
 Skills: SQL | Power BI | Excel/Google Sheets  
 📍 Awka, Anambra, Nigeria  
 
