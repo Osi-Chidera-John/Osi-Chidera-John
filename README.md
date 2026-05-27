@@ -2,7 +2,7 @@
  
 Certified Data Analyst  
 Skills: SQL | Power BI | Excel/Google Sheets  
-📍 Awka, Anambra, Nigeria  
+📍 Anambra, Nigeria  
 
 
 ##  About Me
