@@ -13,4 +13,4 @@ Currently building projects to improve my skills and create a strong professiona
 
 ## 📫 Contact Me
 - Email: chiderajohn519@gmail.com  
-- LinkedIn: www.linkedin.com/in/john-chidera-osi-0b6b55319
+- LinkedIn: https://www.linkedin.com/in/john-chidera-jr-0b6b55319/
