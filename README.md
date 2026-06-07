@@ -1,7 +1,7 @@
 # Hi, I'm John Chidera Osi👋
  
 Certified Data Analyst  
-Skills: SQL | Power BI | Excel/Google Sheets  
+Skills: SQL | Power BI | Excel/Google Sheets | Python  
 📍 Anambra, Nigeria  
 
 
