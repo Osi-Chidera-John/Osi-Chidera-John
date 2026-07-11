@@ -1,6 +1,6 @@
 # Hi, I'm John Chidera Jr.
 
-I'm a Data Analyst and the Founder of [**Jemva**](https://www.linkedin.com/company/jemva/about/?viewAsMember=true), a data analytics and AI company focused on transforming raw data into actionable intelligence.
+I'm a Data Analyst and the Founder of [**Jemva**](https://www.linkedin.com/company/jemva/about/?viewAsMember=true), a data analytics and AI company focused on transforming raw data into actionable intelligence and currently a student of Medical Laboratory Science at Nnamdi Azikiwe University.
 
 I build data-driven solutions that help businesses make smarter decisions through analytics, automation, and interactive dashboards. My work combines technical expertise with business thinking to uncover insights that create measurable impact.
 
