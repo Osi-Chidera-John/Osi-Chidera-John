@@ -28,4 +28,4 @@ I build data-driven solutions that help businesses make smarter decisions throug
 
 ### Connect with me
 - Email: chiderajohn519@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/john-chidera-jr-0b6b55319/
+- LinkedIn: [View Profile](https://www.linkedin.com/in/john-chidera-jr-0b6b55319/)
