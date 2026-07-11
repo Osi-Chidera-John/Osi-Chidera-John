@@ -1,6 +1,6 @@
 # Hi, I'm John Chidera Osi👋
- 
-Certified Data Analyst  
+
+Founder, Jemva | Data Analytics & AI Solutions  
 Skills: SQL | Power BI | Excel | Python  
 📍 Anambra, Nigeria  
 
