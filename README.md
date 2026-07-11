@@ -1,4 +1,4 @@
-# Hi, I'm John Chidera
+# Hi, I'm John Chidera Jr.
 
 I'm a Data Analyst and the Founder of **Jemva**, a data analytics and AI company focused on transforming raw data into actionable intelligence.
 
