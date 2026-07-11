@@ -1,16 +1,31 @@
-# Hi, I'm John Chidera Osi👋
+# Hi, I'm John Chidera
 
-Founder, Jemva | Data Analytics & AI Solutions  
-Skills: SQL | Power BI | Excel | Python  
-📍 Anambra, Nigeria  
+I'm a Data Analyst and the Founder of **Jemva**, a data analytics and AI company focused on transforming raw data into actionable intelligence.
+
+I build data-driven solutions that help businesses make smarter decisions through analytics, automation, and interactive dashboards. My work combines technical expertise with business thinking to uncover insights that create measurable impact.
+
+### What I work with
+
+* 📊 Power BI & Interactive Dashboards
+* 🗄️ SQL & Database Management
+* 🐍 Python for Data Analysis & Automation
+* 📈 Microsoft Excel, Power Query & DAX
+* 🧹 Data Cleaning & Transformation
+* 📉 Data Visualization & KPI Reporting
+* 🤖 AI-Powered Analytics & Business Intelligence
+
+### Currently
+
+* 🚀 Founder of **Jemva**
+* 💼 Building analytics and AI solutions for businesses
+* 🌱 Continuously improving my skills in AI, automation, and data engineering
+* 🧪 Developing real-world analytics projects and open-source portfolios
 
 
-##  About Me
-I’m passionate about data analysis and using data to solve real-world problems.  
-I leverage SQL, Power BI, Python and Excel to extract insights from data and turn them into actionable solutions.  
-Currently building projects to improve my skills and create a strong professional portfolio.
+> **Transforming data into actionable intelligence.**
 
 
-## 📫 Contact Me
+
+### Connect with me
 - Email: chiderajohn519@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/john-chidera-jr-0b6b55319/
