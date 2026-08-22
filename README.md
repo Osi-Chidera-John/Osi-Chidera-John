@@ -35,4 +35,4 @@ I build data-driven solutions, interactive dashboards, and automated analytics p
 
 [LinkedIn](https://www.linkedin.com/in/john-chidera-jr/)
 
-[Email](chiderajohn519@gmail.com)
+[Email: chiderajohn519@gmail.com]
