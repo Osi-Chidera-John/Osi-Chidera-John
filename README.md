@@ -13,7 +13,7 @@ I build data-driven solutions, interactive dashboards, and automated analytics p
 
 ---
 
-### 🛠 Tech Stack & Tools
+###  My Skills & Tools
 
 * **Languages & Querying:** Python (Pandas, NumPy, Matplotlib), SQL (MySQL)
 * **BI & Reporting:** Power BI, DAX, Power Query, Microsoft Excel
