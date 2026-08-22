@@ -1,4 +1,4 @@
-# Hi, I'm Osi John Chidera 👋
+# Hi, I'm Osi Chidera John👋
 
 **Healthcare Data Analyst & Researcher** | Founder of [**Jemva**]([https://www.linkedin.com/company/jemva/](https://www.linkedin.com/company/jemva/about/?viewAsMember=true)) | B.MLS Student at Nnamdi Azikiwe University
 
