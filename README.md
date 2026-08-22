@@ -33,5 +33,5 @@ I build data-driven solutions, interactive dashboards, and automated analytics p
 
 ### 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/john-chidera-jr/))
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chiderajohn519@gmail.com)
+[![LinkedIn]((https://www.linkedin.com/in/john-chidera-jr/))
+[![Email](mailto:chiderajohn519@gmail.com)
