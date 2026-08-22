@@ -28,17 +28,10 @@ I build data-driven solutions, interactive dashboards, and automated analytics p
 * 📈 **Open-Source Analytics:** Developing end-to-end data analytics portfolios, interactive dashboards, and research datasets.
 * 🌱 **Continuous Learning:** Expanding capabilities in data engineering pipelines and statistical automation.
 
----
-
-### 📂 Featured Repositories
-
-* 📊 **[Project Name 1](https://github.com/yourusername/repo1):** Interactive Power BI dashboard analyzing [brief summary].
-* 🗄️ **[Project Name 2](https://github.com/yourusername/repo2):** Advanced SQL data transformation and exploratory analysis on [dataset].
-* 🐍 **[Project Name 3](https://github.com/yourusername/repo3):** Python automation script for cleaning and processing [data type].
 
 ---
 
 ### 📬 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-chidera-jr-0b6b55319/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/john-chidera-jr/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:chiderajohn519@gmail.com)
