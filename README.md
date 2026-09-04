@@ -1,6 +1,6 @@
 # Hi, I'm Osi Chidera John👋
 
-**Healthcare Data Analyst & Researcher** | Founder of [**Jemva**]([https://www.linkedin.com/company/jemva/](https://www.linkedin.com/company/jemva/about/?viewAsMember=true)) | B.MLS Student at Nnamdi Azikiwe University
+**Healthcare Analyst & Researcher** | Founder of [**Jemva**]([https://www.linkedin.com/company/jemva/](https://www.linkedin.com/company/jemva/about/?viewAsMember=true)) | B.MLS Student at Nnamdi Azikiwe University
 
 I build data-driven solutions, interactive dashboards, and automated analytics pipelines that turn complex raw data into actionable intelligence. My background spans business intelligence, empirical data analysis, and healthcare research.
 
